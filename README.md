@@ -53,7 +53,7 @@ To use our concept-based mining model, follow these steps:
 
 ![Placeholder Image](placeholder_image.png)
 
-[Replace this image with a demonstration of the concept-based mining process or results.]
+
 
 ## Contributing
 
@@ -61,6 +61,6 @@ We welcome contributions from the community! If you'd like to contribute to the 
 
 ## Support
 
-If you encounter any issues or have any questions about the model, please feel free to open an issue on GitHub or contact us at [contact@example.com](mailto:uroojuddin7@gmail.com).
+If you encounter any issues or have any questions about the model, please feel free to open an issue on GitHub or contact us at [uroojuddin7@gmail.com](mailto:uroojuddin7@gmail.com).
 
 Happy text clustering with concept-based mining! 📚✨
