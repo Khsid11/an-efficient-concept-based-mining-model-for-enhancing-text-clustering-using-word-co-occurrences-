@@ -1,4 +1,3 @@
-Certainly! Below is a README file content for an efficient concept-based mining model for enhancing text clustering using word co-occurrences, with a placeholder for adding an image:
 
 # Efficient Concept-based Mining Model for Enhancing Text Clustering
 
