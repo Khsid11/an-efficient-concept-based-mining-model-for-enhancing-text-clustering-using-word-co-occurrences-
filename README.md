@@ -52,7 +52,9 @@ To use our concept-based mining model, follow these steps:
 
 
 ![Placeholder Image](pie_chart.png)
-![Placeholder Image](scatter-plot.png)
+
+![Placeholder Image](scatter_plot.png)
+
 ![Placeholder Image](bar_chart.png)
 
 
