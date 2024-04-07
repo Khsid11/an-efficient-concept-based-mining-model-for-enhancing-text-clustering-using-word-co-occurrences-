@@ -49,9 +49,9 @@ To use our concept-based mining model, follow these steps:
    ```
 
 ## Demo
-
-![Placeholder Image](placeholder_image.png)
-
+![Placeholder Image](scatter_chart.png)
+![Placeholder Image](pie_chart.png)
+![Placeholder Image](bar_chart.png)
 
 
 ## Contributing
